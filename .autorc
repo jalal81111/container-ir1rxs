@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "jalal81111",
+  "repo": "container-ir1rxs",
+  "name": "jalal81111",
+  "email": "jalalsahloul81@gmail.com",
+}
